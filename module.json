@@ -1,0 +1,14 @@
+{
+  "name": "ubit-neopixel",
+  "version": "0.0.0",
+  "description": "Module for using neopixels with the BBC micro:bit",
+  "keywords": [
+    "neopixel",
+    "microbit"
+  ],
+  "author": "Evan Morgan",
+  "license": "MIT",
+  "dependencies": {
+       "nrf51-sdk": "ARMmbed/nrf51-sdk"
+  }
+}
